@@ -1,0 +1,39 @@
+#header-nav{
+	background-color: #cddc39;
+}
+
+#nav-list a {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.food{
+	font-weight: bold;
+	color: #000000;
+	font-size: 18px;
+}
+
+.navbar-brand {
+	font-size: 40px;
+	font-family: 'lora', serif;
+	color: black;
+}
+.title{
+	padding-bottom: 40px
+}
+
+#chick, #beef, #sushi{
+	background-color: grey;
+	margin: 10px;
+	border: 1px solid black;
+}
+p {
+  font-family: Helvetica;
+  color: #171516;
+  clear: both;
+  width: 90%;
+  margin: 20px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-bottom: 0px;
+}
